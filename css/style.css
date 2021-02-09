@@ -53,7 +53,7 @@ header ul li a:hover {
 }
 .banner {
     height: 60vh;
-    background-image: url('../img/banner.jpg');
+    background-image: url('https://cdn.discordapp.com/attachments/806797261026754610/808669177548111882/image.jpg');
     background-size: cover;
     position: relative;
     display: flex;
