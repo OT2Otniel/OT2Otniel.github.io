@@ -94,3 +94,8 @@ section h3 {
     background-color: #18AA76;
     color: #fff;
 }
+footer {
+        font-family: 'Libre Franklin', sans-serif;
+        background-color: black;
+        color: white;
+}
